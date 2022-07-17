@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MVCTest01/MVCTest01.iml" filepath="$PROJECT_DIR$/MVCTest01/MVCTest01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVCTest02/MVCTest02.iml" filepath="$PROJECT_DIR$/MVCTest02/MVCTest02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVCTest03/MVCTest03.iml" filepath="$PROJECT_DIR$/MVCTest03/MVCTest03.iml" />
     </modules>
   </component>
 </project>

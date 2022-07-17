@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MVCTest01" />
+        <module name="MVCTest02" />
+        <module name="MVCTest03" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="MVCTest01" target="1.8" />
+      <module name="MVCTest02" target="1.8" />
+      <module name="MVCTest03" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
